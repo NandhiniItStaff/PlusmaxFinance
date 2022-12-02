@@ -1,2 +1,2 @@
-print("Hello PlusmaxIt")
+print("Hello It")
 print("Hello World!")
